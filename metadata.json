@@ -1,0 +1,6 @@
+{
+  "name": "CypherNode - Secure File Transfer",
+  "description": "An end-to-end encrypted peer-to-peer file transfer system using RSA key exchange and AES-GCM encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
